@@ -1,3 +1,4 @@
-#!/bin/sh
+#!/bin/sh -L
 
-echo "Hello Action!"
+sh -c "echo $*"
+
