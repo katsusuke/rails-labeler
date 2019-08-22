@@ -1,6 +1,8 @@
 action "main" {
   uses = "./main"
   env = {
-    NAME = "Katsusuke"
+    FIRST_NAME  = "Mona"
+    MIDDLE_NAME = "Lisa"
+    LAST_NAME   = "Octocat"
   }
 }
