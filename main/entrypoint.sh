@@ -1,4 +1,4 @@
-#!/bin/sh -L
+#!/bin/sh
 
 env
 
